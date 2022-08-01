@@ -1,0 +1,17 @@
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Предмет и метод радиационной биофизики. Актуальность исследования биологического действия ионизирующего излучения. Разделы радиобиологии}{2}{section.1}%
+\contentsline {section}{\numberline {2}История развития радиационной биофизики}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Развитие радиобиологии}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Открытие закона радиочувствительности клеток}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Появление количественной радиобиологии}{7}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Виды и характеристики ионизирующих излучений}{12}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Линейная передача энергии излучения}{14}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Радиоактивность. Изотопы. Закон радиоактивного распада. Типы радиоактивного распада ($\alpha $- и $\beta $-распад)}{15}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Закон радиоактивного распада}{15}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Активность радиоактивного элемента}{16}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Дозиметрия}{16}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Поглощённая доза}{17}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Экспозиционная доза излучения}{18}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Эффективная доза облучения}{18}{subsection.5.3}%
